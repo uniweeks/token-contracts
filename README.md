@@ -5,7 +5,8 @@ https://uniweeks.org/
 ## Deployed Contracts
 
 UNIWKS Smart Contract
-https://github.com/uniweeks/token-contract
+
+https://github.com/uniweeks/token-contracts
 
 ## Usage :hammer_and_pick:
 
