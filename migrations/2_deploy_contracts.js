@@ -1,5 +1,5 @@
-const UniweeksToken = artifacts.require('UniweeksToken.sol');
+const UniWeeksToken = artifacts.require('UniWeeksToken.sol');
 
 module.exports = function (deployer) {
-  deployer.deploy(UniweeksToken);
+  deployer.deploy(UniWeeksToken);
 };

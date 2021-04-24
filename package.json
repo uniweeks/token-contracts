@@ -15,7 +15,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@openzeppelin/contracts": "^4.0.0",
-    "@truffle/hdwallet-provider": "^1.2.3",
+    "@truffle/hdwallet-provider": "^1.2.6",
     "core-js": "^3.10.1",
     "dotenv": "^8.2.0"
   },
