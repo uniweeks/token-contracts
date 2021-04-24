@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/utils/Context.sol";
 
 
 contract UniWeeksToken is ERC20,Ownable {
-  constructor() ERC20('UniWeeks Token', 'UNIWKS') {
+  constructor() ERC20('UniWeeks', 'UNIWKS') {
     _mint(msg.sender, 1000000000 * 10 ** 18);
   }
 }
